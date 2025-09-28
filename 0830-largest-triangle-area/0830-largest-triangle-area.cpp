@@ -11,11 +11,11 @@ class Solution {public:
                     double c = Dist(points[k], points[i]);
 
                     double S = (a + b + c) / 2.0;
-                    S = S * (S - a) * (S - b) * (S - c);
 
-                    if (S < 0) S = 0.0;
+                    double radicand = S * (S - a) * (S - b) * (S - c);
+                    if (radicand < 0) radicand = 0.0;
 
-                    maxA = max(maxA, sqrt(S));
+                    maxA = max(maxA, sqrt(radicand));
                 }
             }
         }
