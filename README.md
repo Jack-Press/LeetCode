@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Jack-Press/LeetCode/tree/master/0258-add-digits) |
 | [0830-largest-triangle-area](https://github.com/Jack-Press/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Jack-Press/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 ## Greedy
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jack-Press/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Jack-Press/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Jack-Press/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
