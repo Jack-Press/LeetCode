@@ -1,6 +1,6 @@
 class Solution {
 public:
-    char findTheDifference(string s, string t) {
+    char findTheDifference(const string& s, const string& t) {
         unordered_map<char, int> chars;
         chars.reserve(s.size());
 
