@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Jack-Press/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Jack-Press/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Jack-Press/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Jack-Press/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Jack-Press/LeetCode/tree/master/0258-add-digits) |
 | [0830-largest-triangle-area](https://github.com/Jack-Press/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Jack-Press/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Jack-Press/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Jack-Press/LeetCode/tree/master/0258-add-digits) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Jack-Press/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -87,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Jack-Press/LeetCode/tree/master/0389-find-the-difference) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Jack-Press/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
