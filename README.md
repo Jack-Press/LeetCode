@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jack-Press/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0561-array-partition](https://github.com/Jack-Press/LeetCode/tree/master/0561-array-partition) |
 | [0830-largest-triangle-area](https://github.com/Jack-Press/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Jack-Press/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Jack-Press/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -52,11 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Jack-Press/LeetCode/tree/master/0561-array-partition) |
 | [1018-largest-perimeter-triangle](https://github.com/Jack-Press/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 ## Sorting
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Jack-Press/LeetCode/tree/master/0389-find-the-difference) |
+| [0561-array-partition](https://github.com/Jack-Press/LeetCode/tree/master/0561-array-partition) |
 | [1018-largest-perimeter-triangle](https://github.com/Jack-Press/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 ## Geometry
 |  |
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Jack-Press/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Jack-Press/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
