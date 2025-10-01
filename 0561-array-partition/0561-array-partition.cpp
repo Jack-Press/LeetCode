@@ -2,10 +2,9 @@ class Solution {
 public:
     int arrayPairSum(vector<int>& nums) {
         sort(nums.begin(), nums.end());
-        int sum = nums[0];
         for(int i = 2; i < nums.size(); i += 2){
-            sum += nums[i];
+            nums[0] += nums[i];
         }
-        return sum;
+        return nums[0];
     }
 };
