@@ -1,12 +1,6 @@
 class Solution {
 public:
     int maxBottlesDrunk(int& numBottles, int& numExchange) {
-        int res = numBottles;
-        while(numBottles >= numExchange){
-            res++;
-            numBottles -= (numExchange - 1);
-            numExchange++;
-        }
-        return res;
+        return numBottles + (((-2 * numExchange) + 3 + sqrt(4 * numExchange * numExchange + 8 * numBottles - 12 * numExchange + 1)) / 2);
     }
 };
