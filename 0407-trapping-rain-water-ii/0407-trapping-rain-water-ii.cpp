@@ -3,8 +3,8 @@ public:
     int trapRainWater(vector<vector<int>>& heightMap) {
         int m = heightMap.size(), n = heightMap[0].size();
 
-        // orig will hold the water level, start as terrain height
-        vector<vector<int>> orig = heightMap;
+        // Keep one copy of the original terrain heights
+        const vector<vector<int>> orig = heightMap;
 
         bool updated = true, firstPass = true;
         while (updated) {
@@ -13,9 +13,9 @@ public:
             // Forward sweep
             for (int i = 1; i < m - 1; i++) {
                 for (int j = 1; j < n - 1; j++) {
-                    int val = max(heightMap[i][j], min(orig[i-1][j], orig[i][j-1]));
-                    if (firstPass || orig[i][j] > val) {
-                        orig[i][j] = val;
+                    int val = max(orig[i][j], min(heightMap[i-1][j], heightMap[i][j-1]));
+                    if (firstPass || heightMap[i][j] > val) {
+                        heightMap[i][j] = val;
                         updated = true;
                     }
                 }
@@ -26,9 +26,9 @@ public:
             // Backward sweep
             for (int i = m - 2; i >= 1; i--) {
                 for (int j = n - 2; j >= 1; j--) {
-                    int val = max(heightMap[i][j], min(orig[i+1][j], orig[i][j+1]));
-                    if (orig[i][j] > val) {
-                        orig[i][j] = val;
+                    int val = max(orig[i][j], min(heightMap[i+1][j], heightMap[i][j+1]));
+                    if (heightMap[i][j] > val) {
+                        heightMap[i][j] = val;
                         updated = true;
                     }
                 }
@@ -39,7 +39,7 @@ public:
         int res = 0;
         for (int i = 1; i < m - 1; i++) {
             for (int j = 1; j < n - 1; j++) {
-                res += orig[i][j] - heightMap[i][j];
+                res += heightMap[i][j] - orig[i][j];
             }
         }
         return res;
