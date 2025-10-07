@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jack-Press/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0389-find-the-difference](https://github.com/Jack-Press/LeetCode/tree/master/0389-find-the-difference) |
+| [1612-avoid-flood-in-the-city](https://github.com/Jack-Press/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 ## String
 |  |
 | ------- |
@@ -28,12 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Jack-Press/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Jack-Press/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Jack-Press/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1612-avoid-flood-in-the-city](https://github.com/Jack-Press/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Jack-Press/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jack-Press/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0794-swim-in-rising-water](https://github.com/Jack-Press/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/Jack-Press/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Jack-Press/LeetCode/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/Jack-Press/LeetCode/tree/master/0561-array-partition) |
 | [1018-largest-perimeter-triangle](https://github.com/Jack-Press/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1612-avoid-flood-in-the-city](https://github.com/Jack-Press/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 ## Sorting
 |  |
 | ------- |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Jack-Press/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/Jack-Press/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/Jack-Press/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 ## Matrix
 |  |
 | ------- |
