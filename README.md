@@ -31,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Jack-Press/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1612-avoid-flood-in-the-city](https://github.com/Jack-Press/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Jack-Press/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Jack-Press/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jack-Press/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0794-swim-in-rising-water](https://github.com/Jack-Press/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/Jack-Press/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Jack-Press/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jack-Press/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Jack-Press/LeetCode/tree/master/0011-container-with-most-water) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Jack-Press/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Jack-Press/LeetCode/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/Jack-Press/LeetCode/tree/master/0561-array-partition) |
 | [1018-largest-perimeter-triangle](https://github.com/Jack-Press/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Jack-Press/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Geometry
 |  |
 | ------- |
