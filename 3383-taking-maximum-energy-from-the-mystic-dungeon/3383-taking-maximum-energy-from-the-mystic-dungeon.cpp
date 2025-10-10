@@ -1,8 +1,8 @@
 class Solution {
 public:
-    int maximumEnergy(vector<int>& energy, int k) {
+    int maximumEnergy(vector<int>& energy, const int k) {
         int highest = energy.back();
-        int n = energy.size() - 1;
+        const int n = energy.size() - 1;
         for(int i = 0; i < k; i++){
             int j = n - i;
             while(j >= 0){
