@@ -2,11 +2,11 @@ class Solution {
 public:
     int maximumEnergy(vector<int>& energy, int k) {
         int highest = energy.back();
-        int n = energy.size();
+        int n = energy.size() - 1;
         for(int i = 0; i < k; i++){
-            int j = n - i - 1;
+            int j = n - i;
             while(j >= 0){
-                if(j < n - k){
+                if(j < n - k + 1){
                     energy[j] += energy[j + k];
                 }
                 if(energy[j] > highest){
