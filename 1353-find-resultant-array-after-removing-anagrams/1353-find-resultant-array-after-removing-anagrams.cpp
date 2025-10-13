@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<string> removeAnagrams(vector<string>& words) {
+    vector<string> removeAnagrams(const vector<string>& words) {
         vector<uint8_t> curr(26, 0);
         for(char c : words[0]){
             curr[c - 'a']++;
