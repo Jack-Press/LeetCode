@@ -3,7 +3,9 @@ public:
     int findSmallestInteger(vector<int>& nums, int value) {
         vector<int> mods(value, 0);
         for(int num : nums){
-            mods[(num % value + value) % value] ++;
+            int r = num % value;
+            if (r < 0) r += value;
+            mods[r]++;
         }
 
         int loc = 0;
