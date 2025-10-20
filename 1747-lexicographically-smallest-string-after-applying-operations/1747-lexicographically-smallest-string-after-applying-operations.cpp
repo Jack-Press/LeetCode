@@ -1,30 +1,29 @@
 class Solution {
 public:
     string findLexSmallestString(string s, int a, int b) {
-        unordered_set<string> vis;
-        string smallest = s;
-        queue<string> q;
-        q.push(s);
-        vis.insert(s);
-
-        while (!q.empty()) {
-            string cur = q.front(); q.pop();
-            if (cur < smallest) smallest = cur;
-
-            string added = cur;
-            for (int i = 1; i < added.size(); i += 2)
-                added[i] = ((added[i] - '0' + a) % 10) + '0';
-            if (!vis.count(added)) {
-                vis.insert(added);
-                q.push(added);
-            }
-
-            string rotated = cur.substr(cur.size() - b) + cur.substr(0, cur.size() - b);
-            if (!vis.count(rotated)) {
-                vis.insert(rotated);
-                q.push(rotated);
+        int n = s.size();
+        vector<int> vis(n);
+        string res = s;
+        // double the length of s for convenience in extracting the rotated
+        // string t
+        s = s + s;
+        for (int i = 0; vis[i] == 0; i = (i + b) % n) {
+            vis[i] = 1;
+            for (int j = 0; j < 10; j++) {
+                int k_limit = b % 2 == 0 ? 0 : 9;
+                for (int k = 0; k <= k_limit; k++) {
+                    // before each accumulation, re-truncate t
+                    string t = s.substr(i, n);
+                    for (int p = 1; p < n; p += 2) {
+                        t[p] = '0' + (t[p] - '0' + j * a) % 10;
+                    }
+                    for (int p = 0; p < n; p += 2) {
+                        t[p] = '0' + (t[p] - '0' + k * a) % 10;
+                    }
+                    res = min(res, t);
+                }
             }
         }
-        return smallest;
+        return res;
     }
 };
