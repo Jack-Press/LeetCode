@@ -10,7 +10,7 @@ public:
                 }
             }
 
-            if(curr != 0){
+            if(curr > 0){
                 res += curr * prev;
                 prev = curr;
             }
