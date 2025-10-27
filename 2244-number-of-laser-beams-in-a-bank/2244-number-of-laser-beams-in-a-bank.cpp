@@ -5,11 +5,13 @@ public:
         for(string b : bank){
             curr = 0;
             for(char c : b){
-                curr += c - '0';
+                if(c == '1'){
+                    curr++;
+                }
             }
 
-            res += curr * prev;
             if(curr != 0){
+                res += curr * prev;
                 prev = curr;
             }
         }
