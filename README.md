@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Jack-Press/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Jack-Press/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Jack-Press/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1254-number-of-closed-islands](https://github.com/Jack-Press/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Jack-Press/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Jack-Press/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Jack-Press/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jack-Press/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0794-swim-in-rising-water](https://github.com/Jack-Press/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1254-number-of-closed-islands](https://github.com/Jack-Press/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Jack-Press/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Binary Tree
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Jack-Press/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/Jack-Press/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1254-number-of-closed-islands](https://github.com/Jack-Press/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Jack-Press/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Heap (Priority Queue)
 |  |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Jack-Press/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/Jack-Press/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1254-number-of-closed-islands](https://github.com/Jack-Press/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Jack-Press/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Union Find
 |  |
@@ -241,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Jack-Press/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Jack-Press/LeetCode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
