@@ -6,7 +6,7 @@ class Solution:
         hashmap = {}
         
         def permutation(i: int):
-            if i == n:
+            if i == n and not str(nums) in hashmap:
                 hashmap[str(nums)] = nums[:]
                 return 
 
