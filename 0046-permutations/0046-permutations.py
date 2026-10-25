@@ -4,7 +4,7 @@ class Solution:
     def permute(self, nums: list[int]) -> list[list[int]]:
         n = len(nums)
         f = math.factorial(n)
-        perms = [[] * n] * f
+        perms = [[] * n for _ in range(f)]
 
         def permutation(i: int, current: int) -> int:
             if i == n:
