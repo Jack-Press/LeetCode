@@ -1,37 +1,36 @@
 class Solution:
-    def closedIsland(self, grid: List[List[int]]) -> int:
-        rows = len(grid)
-        columns = len(grid[0])
-        res = 0
+    def closedIsland(self, grid: list[list[int]]) -> int:
+        count = 0
 
-        def fill_island(row, column):
-            if row < 0 or column < 0 or row >= rows or column >= columns or grid[row][column] == 1:
-                return
+        def nieghbors(pos: list[int], island) -> bool:
+            grid[pos[0]][pos[1]] = 2
 
-            grid[row][column] = 1
+            if pos[0] == 0:
+                island = False
+            elif grid[pos[0] - 1][pos[1]] == 0:
+                island = nieghbors([pos[0] - 1,pos[1]], island)
+            if pos[0] == len(grid) - 1:
+                island = False
+            elif grid[pos[0] + 1][pos[1]] == 0:
+                island = nieghbors([pos[0] + 1,pos[1]], island)
+            if pos[1] == 0:
+                island = False
+            elif grid[pos[0]][pos[1] - 1] == 0:
+                island = nieghbors([pos[0],pos[1] - 1], island)
+            if pos[1] == len(grid[0]) - 1:
+                island = False
+            elif grid[pos[0]][pos[1] + 1] == 0:
+                island = nieghbors([pos[0],pos[1] + 1], island)
+                
+            return island
 
-            fill_island(row + 1, column)
-            fill_island(row - 1, column)
-            fill_island(row, column + 1)
-            fill_island(row, column - 1)
-        
-        col = columns - 1
-        for row in range(rows):
-            if grid[row][0] == 0:
-                fill_island(row, 0)
-            if grid[row][col] == 0:
-                fill_island(row, col)
+        for i in range(len(grid)):
+            for j in range(len(grid[0])):
+                if grid[i][j] == 0:
+                    island = nieghbors([i,j], True)
+                    print(island)
+                    if island:
+                        count = count + 1
+        return count
 
-        ro = rows - 1
-        for column in range(columns):
-            if grid[0][column] == 0:
-                fill_island(0, column)
-            if grid[ro][column] == 0:
-                fill_island(ro, column)
-        
-        for row in range(1, ro):
-            for column in range(1, col):
-                if grid[row][column] == 0:
-                    res += 1
-                    fill_island(row, column)
-        return res
+    
