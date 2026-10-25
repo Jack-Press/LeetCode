@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Jack-Press/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Jack-Press/LeetCode/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/Jack-Press/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Jack-Press/LeetCode/tree/master/0047-permutations-ii) |
 | [0228-summary-ranges](https://github.com/Jack-Press/LeetCode/tree/master/0228-summary-ranges) |
 | [0407-trapping-rain-water-ii](https://github.com/Jack-Press/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0561-array-partition](https://github.com/Jack-Press/LeetCode/tree/master/0561-array-partition) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Jack-Press/LeetCode/tree/master/0047-permutations-ii) |
 | [0389-find-the-difference](https://github.com/Jack-Press/LeetCode/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/Jack-Press/LeetCode/tree/master/0561-array-partition) |
 | [1018-largest-perimeter-triangle](https://github.com/Jack-Press/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Jack-Press/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Jack-Press/LeetCode/tree/master/0047-permutations-ii) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Jack-Press/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Monotonic Stack
 |  |
