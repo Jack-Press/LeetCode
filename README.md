@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Jack-Press/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Jack-Press/LeetCode/tree/master/0047-permutations-ii) |
 | [0119-pascals-triangle-ii](https://github.com/Jack-Press/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0189-rotate-array](https://github.com/Jack-Press/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Jack-Press/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Jack-Press/LeetCode/tree/master/0228-summary-ranges) |
 | [0407-trapping-rain-water-ii](https://github.com/Jack-Press/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Jack-Press/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Jack-Press/LeetCode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Jack-Press/LeetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Jack-Press/LeetCode/tree/master/0189-rotate-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Jack-Press/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Jack-Press/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Dynamic Programming
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Jack-Press/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Jack-Press/LeetCode/tree/master/0258-add-digits) |
 | [0830-largest-triangle-area](https://github.com/Jack-Press/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Jack-Press/LeetCode/tree/master/1018-largest-perimeter-triangle) |
