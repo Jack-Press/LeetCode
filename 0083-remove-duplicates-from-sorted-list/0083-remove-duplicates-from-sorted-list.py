@@ -5,12 +5,15 @@
 #         self.next = next
 class Solution:
     def deleteDuplicates(self, head: ListNode | None) -> ListNode | None:
-        hashmap = {}
-        while head:
-            hashmap[head.val] = head.val
-            head = head.next
+        if not head:
+            return head
+        prev = head
+        cur = head.next
+        while cur:
+            if prev.val == cur.val:
+                prev.next = cur.next
+            else:
+                prev = cur
+            cur = cur.next
 
-        cur = None
-        for num in reversed(list(hashmap.keys())):
-            cur = ListNode(num, cur)
-        return cur
+        return head
