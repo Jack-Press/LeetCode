@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Jack-Press/LeetCode/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/Jack-Press/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Jack-Press/LeetCode/tree/master/0047-permutations-ii) |
+| [0119-pascals-triangle-ii](https://github.com/Jack-Press/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/Jack-Press/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Jack-Press/LeetCode/tree/master/0228-summary-ranges) |
 | [0407-trapping-rain-water-ii](https://github.com/Jack-Press/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jack-Press/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0119-pascals-triangle-ii](https://github.com/Jack-Press/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Jack-Press/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Jack-Press/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Jack-Press/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
