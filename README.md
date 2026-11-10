@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Jack-Press/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Jack-Press/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Jack-Press/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3693-climbing-stairs-ii](https://github.com/Jack-Press/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Jack-Press/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Jack-Press/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Jack-Press/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Jack-Press/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Jack-Press/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Jack-Press/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3693-climbing-stairs-ii](https://github.com/Jack-Press/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Jack-Press/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Jack-Press/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
