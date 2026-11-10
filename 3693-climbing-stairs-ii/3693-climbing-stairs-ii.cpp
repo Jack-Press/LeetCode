@@ -6,11 +6,7 @@ public:
             return costs[0];
         }
 
-        int temp = costs[1] + costs[0] + 1;
-        costs[1] += 4;
-        if(temp < costs[1]){
-            costs[1] = temp;
-        }
+        costs[1] += min(costs[0] + 1, 4, 5);
         if(n == 2){
             return costs[1];
         }
