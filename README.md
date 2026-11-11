@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3676-smallest-number-with-all-set-bits](https://github.com/Jack-Press/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Jack-Press/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Jack-Press/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Jack-Press/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Jack-Press/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Greedy
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Jack-Press/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Jack-Press/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Jack-Press/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Jack-Press/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
 |  |
 | ------- |
