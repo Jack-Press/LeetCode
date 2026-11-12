@@ -321,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Jack-Press/LeetCode/tree/master/0096-unique-binary-search-trees) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Jack-Press/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
