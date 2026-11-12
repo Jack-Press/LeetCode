@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Jack-Press/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Jack-Press/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2409-count-days-spent-together](https://github.com/Jack-Press/LeetCode/tree/master/2409-count-days-spent-together) |
+| [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Jack-Press/LeetCode/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Jack-Press/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Jack-Press/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Jack-Press/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/Jack-Press/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Jack-Press/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Jack-Press/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Jack-Press/LeetCode/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Jack-Press/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Jack-Press/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
