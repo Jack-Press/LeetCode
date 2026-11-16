@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Jack-Press/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Jack-Press/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Jack-Press/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Jack-Press/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Jack-Press/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2409-count-days-spent-together](https://github.com/Jack-Press/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Jack-Press/LeetCode/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Jack-Press/LeetCode/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/Jack-Press/LeetCode/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Jack-Press/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Jack-Press/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Jack-Press/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/Jack-Press/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Jack-Press/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
