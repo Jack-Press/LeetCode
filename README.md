@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Jack-Press/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Jack-Press/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2409-count-days-spent-together](https://github.com/Jack-Press/LeetCode/tree/master/2409-count-days-spent-together) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Jack-Press/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Jack-Press/LeetCode/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Jack-Press/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Jack-Press/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
