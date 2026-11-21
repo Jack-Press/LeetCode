@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/Jack-Press/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Jack-Press/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Jack-Press/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Jack-Press/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Jack-Press/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Jack-Press/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Jack-Press/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Jack-Press/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Jack-Press/LeetCode/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Jack-Press/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Jack-Press/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Jack-Press/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Jack-Press/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sliding Window
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Jack-Press/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Jack-Press/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Jack-Press/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Jack-Press/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Jack-Press/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Jack-Press/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Jack-Press/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Jack-Press/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Jack-Press/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Jack-Press/LeetCode/tree/master/0101-symmetric-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Jack-Press/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Jack-Press/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Jack-Press/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1254-number-of-closed-islands](https://github.com/Jack-Press/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Jack-Press/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Jack-Press/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Jack-Press/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
